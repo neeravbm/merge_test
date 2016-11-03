@@ -1,5 +1,4 @@
 Initial text
-G1
 A2
 master1
 B1
